@@ -1,0 +1,6 @@
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.exe.config
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.exe
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.pdb
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.csprojResolveAssemblyReference.cache
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.exe
+c:\users\usjim\documents\visual studio 2015\Projects\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.pdb
